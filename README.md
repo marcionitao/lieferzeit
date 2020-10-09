@@ -9,3 +9,4 @@ Order food online from your favorite local restaurants! Exclusive Discounts. Fas
 - Flutter
 - Hasura + GraphQL
 - GetX (state management)
+- getx_pattern
